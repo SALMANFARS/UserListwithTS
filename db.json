@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Salom1234",
+      "description": "alaykum4321",
+      "mail": "gmail@gmail.com",
+      "city": "istanbul",
+      "phone": "+7555555",
+      "completed": false
+    },
+    {
+      "title": "Muhammad ",
+      "description": "Solih",
+      "mail": "solih@gmail.com",
+      "city": "Moskow",
+      "phone": "+79917210511",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "sasasasas",
+      "description": "sqaqqqqqsqssq",
+      "mail": "gmail.com",
+      "city": "dsdsds",
+      "phone": "045445544544545454545",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
